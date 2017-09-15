@@ -6,6 +6,8 @@ Group 15
 
 # Changelog
 
+1.  Added Changelog - Mark
+
 2.  Added new person (Jim Parry) and quote - Andy
 
-1.  Added Changelog - Mark
+3. Added tooltip to pictures - Mark
