@@ -11,3 +11,5 @@ Group 15
 2.  Added new person (Jim Parry) and quote - Andy
 
 3. Added tooltip to pictures - Mark
+
+4.  Added display page for quotes - Andy
