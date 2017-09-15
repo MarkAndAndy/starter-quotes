@@ -13,3 +13,5 @@ Group 15
 3. Added tooltip to pictures - Mark
 
 4.  Added display page for quotes - Andy
+
+5. Formatted actor data - Mark
